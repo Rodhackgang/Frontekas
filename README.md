@@ -1,21 +1,3 @@
-# Générateur de Numéros Français
-
-![Logo](path/to/logo.png) <!-- Remplacez par le chemin vers votre logo si disponible -->
-
-## Table des Matières
-- [À propos du projet](#à-propos-du-projet)
-- [Fonctionnalités](#fonctionnalités)
-- [Démonstration](#démonstration)
-- [Technologies Utilisées](#technologies-utilisées)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
-- [Contact](#contact)
-
-## À propos du projet
-
-Le **Générateur de Numéros Français** est une application web simple et élégante conçue pour générer une liste de numéros de téléphone français entre deux bornes spécifiées par l'utilisateur. Grâce à une interface utilisateur moderne utilisant le glassmorphism et des fonctionnalités avancées de formatage automatique, cette application vise à offrir une expérience utilisateur fluide et intuitive.
 
 ## Fonctionnalités
 
